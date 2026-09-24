@@ -1,0 +1,20 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Build outputs
+*.elf
+*.bin
+*.hex
+*.map
+
+# Local credentials
+include/secrets.h
+
+# Editor/OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
